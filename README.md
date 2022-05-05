@@ -1,4 +1,4 @@
-# Fantasy Point Against Dashboard
+# Fantasy Points Against Dashboard
 
 By: Chris O'Connor
 

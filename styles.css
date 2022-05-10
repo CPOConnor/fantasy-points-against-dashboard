@@ -1,0 +1,26 @@
+
+
+.options-label
+{
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-top: .5rem;
+}
+
+div.card 
+{
+    margin-bottom:.5rem;
+}
+
+input.options-input {
+    margin-right: 0.25em;
+}
+
+#dropdown-team {
+    padding-left: 16px;
+    padding-top: 10px;
+}
+
+#footer-div {
+    text-align: right;
+}
